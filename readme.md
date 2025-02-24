@@ -4,13 +4,23 @@ After a few months of on and off work with the little free time I had, I finally
 full chess functionality including castling and en passant. There are also endgame checks for checkmate and stalemate to see who won or caused a tie game.
 It also includes a saveslot system which is infinitely expandable where you can save, load, or delete savefiles to saveslots. I learned a lot while making this
 project like how to use fstream, basic object oriented programming, game loops/logic, and more about vectors than I previously knew, but the worst part about making the project was testing every situation by hand.
-This is the single file solution which is how I made it, however I will be making a multi file solution for better organization and so I can learn how I should
-be organizing my bigger projects in the future. 
+## How To Run
+### Downloading The Code
+Download the code and make file as follows
+Git:
+1. ```git clone https://github.com/zach-lawrence-1/Chess-Multi-File.git c```
+   - c can be any local directory you want.
+2. ```cd c```
 
-**Running the project**
+OR
 
-As of now I can only upload the source code so in order to run it, you need to download the c++ files and put them in your project directory and compile it. If you
-are using visual studio, make a new project and put the c++ file in the project directory where needed and drag the c++ files under source template and it should run.
+Just download zip from github and unzip where you want
+### Windows
+On windows, as long as you have MSYS2 setup with g++ and you can run make files then you should be able to run the main program clock_ND.cpp as follows:
+1. Download code and make file.
+2. Open a terminal in the same directory as the code and make file.
+3. Type in ```make```
+4. run ```./chess.exe``` or ```./chess```
 
 ## Project Images
 
