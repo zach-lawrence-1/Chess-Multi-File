@@ -29,7 +29,9 @@ Main board:
 <img width="654" alt="main board" src="https://github.com/user-attachments/assets/e71c2b98-4a72-47f5-9a69-e83e82830fba">
 
 Piece being killed and sent to the killzone:
+
 <img width="639" alt="killed" src="https://github.com/user-attachments/assets/57651fa9-7287-4daa-8846-f9e4a629728d">
 
 Infinitely expandable save slots:
+
 <img width="653" alt="saveslot" src="https://github.com/user-attachments/assets/21f5b065-d481-435e-9ca8-494a36c5c3a8">
