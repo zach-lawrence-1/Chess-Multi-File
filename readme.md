@@ -4,6 +4,12 @@ After a few months of on and off work with the little free time I had, I finally
 full chess functionality including castling and en passant. There are also endgame checks for checkmate and stalemate to see who won or caused a tie game.
 It also includes a saveslot system which is infinitely expandable where you can save, load, or delete savefiles to saveslots. I learned a lot while making this
 project like how to use fstream, basic object oriented programming, game loops/logic, and more about vectors than I previously knew, but the worst part about making the project was testing every situation by hand.
+
+## Time Complexity Analysis
+```void bPieces::piecePlacement(int X, int Y, int typePiece)``` **O(1)**
+
+```void bPieces::dead(int numDead)``` **O(1)**
+
 ## How To Run
 ### Downloading The Code
 Download the code and make file as follows
